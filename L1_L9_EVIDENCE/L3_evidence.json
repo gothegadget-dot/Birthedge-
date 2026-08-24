@@ -1,0 +1,18 @@
+{
+  "layer": 3,
+  "name": "DECISION_ENGINE",
+  "timestamp": 1787580751,
+  "accuracy": 0.0095,
+  "specificity": null,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "confusion_matrix": {
+    "tp": 1,
+    "fp": 0,
+    "tn": 0,
+    "fn": 0
+  },
+  "valid": false,
+  "hash": "2164b562ab9810677360ac1e76b3fdf56dc4d71e7d12871df235856f2fcae1e7"
+}

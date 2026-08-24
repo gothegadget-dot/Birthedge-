@@ -1,0 +1,163 @@
+{
+  "title": "BIRTH_EDGE L1-L9 AUTONOMY EVIDENCE",
+  "version": "3.2-safe-rebuild",
+  "timestamp": 1787580751,
+  "layers": [
+    {
+      "layer": 1,
+      "name": "PERCEPTION",
+      "timestamp": 1787580751,
+      "total_rows_checked": 130,
+      "rows_missing_fields": 128,
+      "missing_field_counts": {
+        "calibration_quality": 128,
+        "confidence_alignment": 128,
+        "decision": 128,
+        "discernment_quality": 128,
+        "evidence_agreement": 128,
+        "evidence_strength": 128,
+        "memory_id": 128,
+        "memory_novelty": 128,
+        "outcome_class": 128,
+        "outcome_magnitude": 128,
+        "correct": 25,
+        "metadata": 25,
+        "model_confidence": 25,
+        "predicted_outcome": 25
+      },
+      "valid": false,
+      "hash": "04c0b3f6765025443a0a741334223cc81e0d9157aed5251a9ffb21be05b2a5cd"
+    },
+    {
+      "layer": 2,
+      "name": "FEATURE_EXTRACT",
+      "timestamp": 1787580751,
+      "total_checks": 780,
+      "out_of_range_count": 0,
+      "valid": true,
+      "hash": "a90e808decbdf96bad7976ccfbae8cc085a52c270255477043da8ec8fc8a3df7"
+    },
+    {
+      "layer": 3,
+      "name": "DECISION_ENGINE",
+      "timestamp": 1787580751,
+      "accuracy": 0.0095,
+      "specificity": null,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "confusion_matrix": {
+        "tp": 1,
+        "fp": 0,
+        "tn": 0,
+        "fn": 0
+      },
+      "valid": false,
+      "hash": "2164b562ab9810677360ac1e76b3fdf56dc4d71e7d12871df235856f2fcae1e7"
+    },
+    {
+      "layer": 4,
+      "name": "RISK_MANAGEMENT",
+      "timestamp": 1787580751,
+      "open_trades": 15,
+      "balance": 21.16042322929573,
+      "max_open_exceeded": false,
+      "valid": true,
+      "hash": "f9c455f0447164c8afd4ab741fc3c9e2e3badd0269d40afbb0b18d4ea7ce4224"
+    },
+    {
+      "layer": 5,
+      "name": "EXECUTION",
+      "timestamp": 1787580751,
+      "dangling_opens": 15,
+      "closed_trades": 118,
+      "valid": false,
+      "hash": "d7d55157761449c02a3f17bf3a20e042be7f838ca8280e6311001fa6965f54ed"
+    },
+    {
+      "layer": 6,
+      "name": "SELF_MONITORING",
+      "timestamp": 1787580751,
+      "anomalies_count": 0,
+      "valid": true,
+      "hash": "13960bbae17c2f929e2cd6e04e203cc5a517f0c4820b970c89f1d8f4abc3bde3"
+    },
+    {
+      "layer": 7,
+      "name": "ADVERSARIAL",
+      "timestamp": 1787580751,
+      "field_variance": 0.0,
+      "valid": true,
+      "hash": "1ef7d2852e2102cb0fffb0637a5d7d9d171724ecefbc79e43f9eec55144a6612"
+    },
+    {
+      "layer": 8,
+      "name": "STRUCTURAL",
+      "timestamp": 1787580751,
+      "ledger_entries": 258,
+      "chain_valid": true,
+      "final_hash": "c137869ce239a7ae60ba57382784242018711c477308164408b5a1c5dd8effb0",
+      "valid": true,
+      "hash": "febd741aafdf2d819ab1e201c40b9f0caeb98a33480f93afeea2c74caf30df47"
+    },
+    {
+      "layer": 9,
+      "name": "SOVEREIGNTY",
+      "timestamp": 1787580751,
+      "all_layers_valid": false,
+      "layer_summary": [
+        {
+          "layer": 1,
+          "name": "PERCEPTION",
+          "valid": false,
+          "hash": "04c0b3f6765025443a0a741334223cc81e0d9157aed5251a9ffb21be05b2a5cd"
+        },
+        {
+          "layer": 2,
+          "name": "FEATURE_EXTRACT",
+          "valid": true,
+          "hash": "a90e808decbdf96bad7976ccfbae8cc085a52c270255477043da8ec8fc8a3df7"
+        },
+        {
+          "layer": 3,
+          "name": "DECISION_ENGINE",
+          "valid": false,
+          "hash": "2164b562ab9810677360ac1e76b3fdf56dc4d71e7d12871df235856f2fcae1e7"
+        },
+        {
+          "layer": 4,
+          "name": "RISK_MANAGEMENT",
+          "valid": true,
+          "hash": "f9c455f0447164c8afd4ab741fc3c9e2e3badd0269d40afbb0b18d4ea7ce4224"
+        },
+        {
+          "layer": 5,
+          "name": "EXECUTION",
+          "valid": false,
+          "hash": "d7d55157761449c02a3f17bf3a20e042be7f838ca8280e6311001fa6965f54ed"
+        },
+        {
+          "layer": 6,
+          "name": "SELF_MONITORING",
+          "valid": true,
+          "hash": "13960bbae17c2f929e2cd6e04e203cc5a517f0c4820b970c89f1d8f4abc3bde3"
+        },
+        {
+          "layer": 7,
+          "name": "ADVERSARIAL",
+          "valid": true,
+          "hash": "1ef7d2852e2102cb0fffb0637a5d7d9d171724ecefbc79e43f9eec55144a6612"
+        },
+        {
+          "layer": 8,
+          "name": "STRUCTURAL",
+          "valid": true,
+          "hash": "febd741aafdf2d819ab1e201c40b9f0caeb98a33480f93afeea2c74caf30df47"
+        }
+      ],
+      "valid": false,
+      "hash": "35b2a19b94fa62026cc1276e60b95d183e8325fde29dbce79f9c84f68de1da68"
+    }
+  ],
+  "master_hash": "0e2699ab4edff7e314b121a6f64d3cbf5869412a6e972d6a7d443a833091b6fa"
+}

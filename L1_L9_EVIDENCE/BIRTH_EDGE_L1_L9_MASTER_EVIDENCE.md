@@ -1,0 +1,38 @@
+# BIRTH_EDGE L1-L9 AUTONOMY EVIDENCE (Safe Rebuild)
+
+## L1 - PERCEPTION
+Valid: False
+Hash: 04c0b3f6765025443a0a741334223cc81e0d9157aed5251a9ffb21be05b2a5cd
+
+## L2 - FEATURE_EXTRACT
+Valid: True
+Hash: a90e808decbdf96bad7976ccfbae8cc085a52c270255477043da8ec8fc8a3df7
+
+## L3 - DECISION_ENGINE
+Valid: False
+Hash: 2164b562ab9810677360ac1e76b3fdf56dc4d71e7d12871df235856f2fcae1e7
+
+## L4 - RISK_MANAGEMENT
+Valid: True
+Hash: f9c455f0447164c8afd4ab741fc3c9e2e3badd0269d40afbb0b18d4ea7ce4224
+
+## L5 - EXECUTION
+Valid: False
+Hash: d7d55157761449c02a3f17bf3a20e042be7f838ca8280e6311001fa6965f54ed
+
+## L6 - SELF_MONITORING
+Valid: True
+Hash: 13960bbae17c2f929e2cd6e04e203cc5a517f0c4820b970c89f1d8f4abc3bde3
+
+## L7 - ADVERSARIAL
+Valid: True
+Hash: 1ef7d2852e2102cb0fffb0637a5d7d9d171724ecefbc79e43f9eec55144a6612
+
+## L8 - STRUCTURAL
+Valid: True
+Hash: febd741aafdf2d819ab1e201c40b9f0caeb98a33480f93afeea2c74caf30df47
+
+## L9 - SOVEREIGNTY
+Valid: False
+Hash: 35b2a19b94fa62026cc1276e60b95d183e8325fde29dbce79f9c84f68de1da68
+

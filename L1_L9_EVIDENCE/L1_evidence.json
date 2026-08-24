@@ -1,0 +1,25 @@
+{
+  "layer": 1,
+  "name": "PERCEPTION",
+  "timestamp": 1787580751,
+  "total_rows_checked": 130,
+  "rows_missing_fields": 128,
+  "missing_field_counts": {
+    "calibration_quality": 128,
+    "confidence_alignment": 128,
+    "decision": 128,
+    "discernment_quality": 128,
+    "evidence_agreement": 128,
+    "evidence_strength": 128,
+    "memory_id": 128,
+    "memory_novelty": 128,
+    "outcome_class": 128,
+    "outcome_magnitude": 128,
+    "correct": 25,
+    "metadata": 25,
+    "model_confidence": 25,
+    "predicted_outcome": 25
+  },
+  "valid": false,
+  "hash": "04c0b3f6765025443a0a741334223cc81e0d9157aed5251a9ffb21be05b2a5cd"
+}

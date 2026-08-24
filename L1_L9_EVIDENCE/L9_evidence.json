@@ -1,0 +1,58 @@
+{
+  "layer": 9,
+  "name": "SOVEREIGNTY",
+  "timestamp": 1787580751,
+  "all_layers_valid": false,
+  "layer_summary": [
+    {
+      "layer": 1,
+      "name": "PERCEPTION",
+      "valid": false,
+      "hash": "04c0b3f6765025443a0a741334223cc81e0d9157aed5251a9ffb21be05b2a5cd"
+    },
+    {
+      "layer": 2,
+      "name": "FEATURE_EXTRACT",
+      "valid": true,
+      "hash": "a90e808decbdf96bad7976ccfbae8cc085a52c270255477043da8ec8fc8a3df7"
+    },
+    {
+      "layer": 3,
+      "name": "DECISION_ENGINE",
+      "valid": false,
+      "hash": "2164b562ab9810677360ac1e76b3fdf56dc4d71e7d12871df235856f2fcae1e7"
+    },
+    {
+      "layer": 4,
+      "name": "RISK_MANAGEMENT",
+      "valid": true,
+      "hash": "f9c455f0447164c8afd4ab741fc3c9e2e3badd0269d40afbb0b18d4ea7ce4224"
+    },
+    {
+      "layer": 5,
+      "name": "EXECUTION",
+      "valid": false,
+      "hash": "d7d55157761449c02a3f17bf3a20e042be7f838ca8280e6311001fa6965f54ed"
+    },
+    {
+      "layer": 6,
+      "name": "SELF_MONITORING",
+      "valid": true,
+      "hash": "13960bbae17c2f929e2cd6e04e203cc5a517f0c4820b970c89f1d8f4abc3bde3"
+    },
+    {
+      "layer": 7,
+      "name": "ADVERSARIAL",
+      "valid": true,
+      "hash": "1ef7d2852e2102cb0fffb0637a5d7d9d171724ecefbc79e43f9eec55144a6612"
+    },
+    {
+      "layer": 8,
+      "name": "STRUCTURAL",
+      "valid": true,
+      "hash": "febd741aafdf2d819ab1e201c40b9f0caeb98a33480f93afeea2c74caf30df47"
+    }
+  ],
+  "valid": false,
+  "hash": "35b2a19b94fa62026cc1276e60b95d183e8325fde29dbce79f9c84f68de1da68"
+}
